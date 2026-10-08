@@ -1,0 +1,13 @@
+# Compiled Binaries & Executables
+*.o
+*.out
+*.exe
+parallel_sum
+
+# System & Editor Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
